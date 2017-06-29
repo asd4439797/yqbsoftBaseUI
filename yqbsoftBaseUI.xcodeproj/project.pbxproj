@@ -26,6 +26,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8372CB691F04AAF000C3D75A /* yqbsoftBaseUI.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = yqbsoftBaseUI.podspec; sourceTree = SOURCE_ROOT; };
 		83DEFF371F03850000FE690D /* libyqbsoftBaseUI.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libyqbsoftBaseUI.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		83DEFF3A1F03850000FE690D /* yqbsoftBaseUI.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = yqbsoftBaseUI.h; sourceTree = "<group>"; };
 		83DEFF3B1F03850000FE690D /* yqbsoftBaseUI.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = yqbsoftBaseUI.m; sourceTree = "<group>"; };
@@ -63,6 +64,7 @@
 		83DEFF391F03850000FE690D /* yqbsoftBaseUI */ = {
 			isa = PBXGroup;
 			children = (
+				8372CB691F04AAF000C3D75A /* yqbsoftBaseUI.podspec */,
 				83DEFF3A1F03850000FE690D /* yqbsoftBaseUI.h */,
 				83DEFF3B1F03850000FE690D /* yqbsoftBaseUI.m */,
 				83DEFF431F03866900FE690D /* yqbsoftBaseController.h */,
